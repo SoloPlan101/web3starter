@@ -1,14 +1,1 @@
-
-# welb
-
-# web3starter
-
-wwwsdasd
-
-# wedb dwd
-
-
-asd 
-s 
-
-hit you
+ For the Contribution Activity credentials, make sure your contribution data is public. Go to Settings > Public Profile > Contributions & Activity and uncheck 'Make profile private and hide activity'. Verify your contribution history with your Gitcoin Passport!
